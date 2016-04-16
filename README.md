@@ -1,3 +1,28 @@
+## humanoid_msgs (kinetic) - 0.3.0-0
+
+The packages in the `humanoid_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release humanoid_msgs --track kinetic --rosdistro kinetic --new-track` on `Sat, 16 Apr 2016 12:50:37 -0000`
+
+These packages were released:
+- `humanoid_msgs`
+- `humanoid_nav_msgs`
+
+Version of package(s) in repository `humanoid_msgs`:
+
+- upstream repository: https://github.com/ahornung/humanoid_msgs
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.3.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.4`
+- rosdistro version: `0.4.5`
+- vcstools version: `0.1.38`
+
+
 ## humanoid_msgs (jade) - 0.3.0-0
 
 The packages in the `humanoid_msgs` repository were released into the `jade` distro by running `/usr/bin/bloom-release humanoid_msgs --track jade --rosdistro jade --new-track` on `Sat, 25 Apr 2015 16:38:19 -0000`
