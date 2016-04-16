@@ -1,0 +1,12 @@
+Source: ros-kinetic-humanoid-nav-msgs
+Section: misc
+Priority: extra
+Maintainer: Armin Hornung <HornungA@informatik.uni-freiburg.de>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-actionlib-msgs, ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-std-msgs
+Homepage: http://ros.org/wiki/humanoid_nav_msgs
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-humanoid-nav-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-actionlib-msgs, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime, ros-kinetic-std-msgs
+Description: Messages and services for humanoid robot navigation
